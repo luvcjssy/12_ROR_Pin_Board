@@ -26,3 +26,16 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+=============================
+
+A site like Pinterest with users, pins, image uploading, and "likes". 
+
+List gem used:
+- gem 'haml'
+- gem 'bootstrap-sass'
+- gem 'simple_form'
+- gem 'devise'
+- gem 'paperclip'
+- gem 'masonry-rails'
+- gem 'acts_as_votable'
